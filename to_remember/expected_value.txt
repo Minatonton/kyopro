@@ -1,0 +1,4 @@
+期待値dpの問題は動的計画法で解く
+また、動的計画法のやり方は結果から計算する
+参考URL：https://qiita.com/flour/items/17d1a2ec521231bf7f91
+参考問題：ABC 263 E
